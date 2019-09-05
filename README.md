@@ -5,41 +5,41 @@
 Develop fundamental skills for the practical use of computers in biological sciences. The course focuses on computer-related techniques used in day-to-day biological work, covering best practices for scientific computing and data handling, theory of visualisation, and scripting, teaching students how to create, store, and manipulate data using the object-oriented programming language R. Examples and projects will be drawn from a wide variety of biological areas, covering typical problems encountered with computer use. The course is a prerequisite for higher-level quantitative courses in biology.
 
 Instructor: Aaron MacNeil, LSC 7088, a.macneil@dal.ca
-TA: Taylor Gorham, LSC 7087, taylor.gorham@dal.ca
+TA: Tor Kitching, LSC 7087, tr573230@dal.ca
 
-Class website: [ifisheries.org](http://ifisheries.org/BIO3872)
+Class server: [ifisheries.org](https://ifisheries.org:4443)
 
-Class location: Wednesday 08:30-11:30 Dunn 221C 
+Class location: Monday 08:30-11:30 McCain 2176 
 
-Office hours: Wednesday 11:30-12:30 LSC 7088
+Office hours: Monday 11:30-12:30 LSC 7088
 
 
 
 ## Lecture schedule
 
-Lectures and labs will be combined in Dunn 221C
+Lectures and labs will be combined in McCain 2176
 
-+ Week 1: **Introduction to Jupyter and R** - survey of programming languages
-+ Week 2: **R programmaing** - functions, loops, and logic
-+ Week 3: **Code and data storage** - Git, naming, excel from hell, csv files, Tidyverse 
-+ Week 4: **Data handling** - DataFrames, arrays, lists, data manipulation
++ Sep 09: **Introduction to Jupyter and R** - survey of programming languages
++ Sep 16: **R programmaing** - functions, loops, and logic
++ Sep 23: **Code and data storage** - Git, naming, excel from hell, csv files, Tidyverse 
++ Sep 30: **Data handling** - DataFrames, arrays, lists, data manipulation
 
     - Data cleanup assignment
 
-+ Week 5: **Databasing** - Database skills, merges, filters
-+ Week 6: **Temporal data** - manipulating dates and times
-+ Week 7: **String manipulation** - working with text, genetics, wrangling webpages
++ Oct 07: **Databasing** - Database skills, merges, filters
++ Oct 14: **Temporal data** - manipulating dates and times
++ Oct 21: **String manipulation** - working with text, genetics, wrangling webpages
 
     - Webpage wrangling assignment
     
-+ Week 8: **Reproducability** - data and code storage, eithics, theory
-+ Week 9: **Living documents** - LaTex, bemer, knitr, markdown, dplyr
++ Oct 28: **Reproducability** - data and code storage, eithics, theory
++ Nov 04: **Living documents** - LaTex, bemer, knitr, markdown, dplyr
 
     - Reproducible document assignment
 
-+ Week 10: **Plotting** - looking at data, Base, ggplot, maps
-+ Week 11: **Scientific graphics** - Tufte, the data:ink ratio, small multiples, perceptions
-+ Week 12: **Scientific graphics** - Colours, transparency, symbols, vector graphics
++ Nov 18: **Plotting** - looking at data, Base, ggplot, maps
++ Nov 25: **Scientific graphics** - Tufte, the data:ink ratio, small multiples, perceptions
++ Dec 02: **Scientific graphics** - Colours, transparency, symbols, vector graphics
     - Beautiful graphics assignment
     
     
