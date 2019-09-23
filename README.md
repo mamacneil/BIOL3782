@@ -9,6 +9,8 @@ TA: Tor Kitching, LSC 7087, tr573230@dal.ca
 
 Class server: [ifisheries.org](https://ifisheries.org:4443)
 
+GitPull: [ifisheries.org:4443/hub/user-redirect/git-pull](https://ifisheries.org:4443/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fmamacneil%2FBIOL3782&app=notebook)
+
 Class location: Monday 08:30-11:30 McCain 2176 
 
 Office hours: Monday 11:30-12:30 LSC 7088
