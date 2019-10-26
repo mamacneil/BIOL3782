@@ -44,7 +44,7 @@ Lectures and labs will be combined in McCain 2176
     
 ## Grading scheme
 
-Students will be assessed based on in-lab exercises (50%) and four assignments (50%). There will be no final exam.
+Students will be assessed based on in-lab exercises (50%) and three assignments (50%). There will be no final exam.
 
 Assignments are to be developed and submitted within the class JupyterHub framework.
 
