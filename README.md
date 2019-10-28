@@ -30,15 +30,15 @@ Lectures and labs will be combined in McCain 2176
 
 + Oct 07: **Databasing** - Database skills, merges, filters
 + Oct 21: **Temporal data** - manipulating dates and times
-+ Oct 28: **String manipulation** - working with text, genetics, wrangling webpages
-
-    - Webpage wrangling assignment
-    
++ Oct 28: **String manipulation** - working with text, genetics, wrangling webpages    
 + Nov 04: **Reproducability** - data and code storage, eithics, theory
 
+    - Reproducible document assignment
+    
 + Nov 18: **Plotting** - looking at data, Base, ggplot, maps
 + Nov 25: **Scientific graphics** - Tufte, the data:ink ratio, small multiples, perceptions
 + Dec 02: **Scientific graphics** - Colours, transparency, symbols, vector graphics
+
     - Beautiful graphics assignment
     
     
